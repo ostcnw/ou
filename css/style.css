@@ -459,7 +459,7 @@ header .intro-text {
 /* Contact Section */
 #contact {
   padding: 100px 0 60px;
-  background: linear-gradient(to right, #8DB3C2 0%, #1E4B6E 100%);
+  background: linear-gradient(to right, #8DB3C2 0%, #0F161E 100%);
   color: rgba(255, 255, 255, 0.75);
 }
 #contact .section-title {
